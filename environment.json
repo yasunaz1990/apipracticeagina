@@ -1,0 +1,14 @@
+{
+	"id": "885a3159-ae47-4dd9-9466-249668f7ea6f",
+	"name": "Heroku",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://api-nodejs-todolist.herokuapp.com",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-09-06T18:49:13.446Z",
+	"_postman_exported_using": "Postman/7.31.1"
+}
